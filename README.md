@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Virender Kumar
 - 👀 I’m interested in Problem solving
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development (MERN Stack)
 - 📫 Reach me at linkedin :- https://www.linkedin.com/in/virender-kumar-36307815a/
 
 <!---
